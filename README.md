@@ -1,6 +1,6 @@
 ## [buildAPKs.native git repository](https://github.com/BuildAPKs/buildAPKs.native/) 
 
-## [buildAPKs.native website](https://buildAPKs.github.com/buildAPKs.native/) 
+## [buildAPKs.native website](https://buildAPKs.github.io/buildAPKs.native/) 
 
 [This repository](https://github.com/BuildAPKs/buildAPKs.native/) is a submodule for [buildAPKs](https://github.com/BuildAPKs/buildAPKs) and [SDRausty's buildAPKs](https://github.com/SDRausty/buildAPKs).
 
