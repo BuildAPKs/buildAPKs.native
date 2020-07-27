@@ -1,6 +1,8 @@
-## [buildAPKs.native](https://github.com/BuildAPKs/buildAPKs.native/) 
+## [buildAPKs.native git repository](https://github.com/BuildAPKs/buildAPKs.native/) 
 
-[This repository](https://github.com/shlibs/shlibs.sh) is a submodule for [buildAPKs](https://github.com/BuildAPKs/buildAPKs) and [SDRausty's buildAPKs](https://github.com/SDRausty/buildAPKs).
+## [buildAPKs.native website](https://buildAPKs.github.com/buildAPKs.native/) 
+
+[This repository](https://github.com/BuildAPKs/buildAPKs.native/) is a submodule for [buildAPKs](https://github.com/BuildAPKs/buildAPKs) and [SDRausty's buildAPKs](https://github.com/SDRausty/buildAPKs).
 
 To make Android Application Kits on smartphone, tablet and TV, copy and paste the following into [Termux](https://github.com/termux) in order to install buildAPKs.native in its' proper place:
 
