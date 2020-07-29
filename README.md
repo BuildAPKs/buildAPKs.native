@@ -10,8 +10,6 @@ To make Android Application Kits on smartphone, tablet and TV, copy and paste th
 
 cd && git clone https://github.com/BuildAPKs/buildAPKs
 
-~/buildAPKs/setup.buildAPKs.bash
-
 ~/buildAPKs/scripts/bash/build/build.native.bash
 
 ```
@@ -22,9 +20,9 @@ To make Android Application Kits on smartphone, tablet and TV, copy and paste th
 
 ```
 
-cd && git clone https://github.com/SDRausty/buildAPKs
+curl -O https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.buildAPKs.bash
 
-~/buildAPKs/setup.buildAPKs.bash
+bash setup.buildAPKs.bash
 
 ~/buildAPKs/scripts/bash/build/build.native.bash
 
