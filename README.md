@@ -30,6 +30,8 @@ bash setup.buildAPKs.bash
 ##### -r--r--r-- [setup.buildAPKs.bash](https://raw.githubusercontent.com/SDRausty/buildAPKs/master/setup.buildAPKs.bash)
 ##### -rwxrwxrwx [setup.buildAPKs.bash](https://sdrausty.github.io/buildAPKs/setup.buildAPKs.bash)
 
+[![Screenshot_20200716-003405.png](https://raw.githubusercontent.com/BuildAPKs/docsBuildAPKs/master/bitpics/screenshots/Screenshot_20200716-003405.png)](https://raw.githubusercontent.com/BuildAPKs/docsBuildAPKs/master/bitpics/screenshots/Screenshot_20200716-003405.png)
+
 ##### Information about shells: 
 
    * [https://developer.ibm.com/tutorials/l-linux-shells/](https://developer.ibm.com/tutorials/l-linux-shells/)
